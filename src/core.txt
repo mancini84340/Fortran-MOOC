@@ -1,2 +1,3 @@
 Material related to the EdX MOOC on Fortran programming
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
